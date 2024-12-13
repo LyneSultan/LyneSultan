@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lyne Al-Sultan</h1>
+![Welcome Image](https://i.postimg.cc/T3kShjYL/Linked-In-cover-1.png)
+<h1 align="center">
+  <a href="https://git.io/typing-svg" >
+    <img  src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hello👋%2C+it's+Lyne+Al-Sultan"/>
+</h1>
 <h3 align="center">Full-stack developer with a passion for innovation</h3>
 <img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lynesultan&label=Profile%20views&color=0e75b6&style=flat" alt="lynesultan" /> </p>
 
+</a>
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **React, Laravel**
